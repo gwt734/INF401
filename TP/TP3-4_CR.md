@@ -1,6 +1,6 @@
 # Compte rendu TP3-4
 
-##### *SIMON Noan, SKARLEAS Valsilis, TREHIN Gwendal*
+##### *SIMON Noan, SKARLEAS Vasilis, TREHIN Gwendal*
 
 ## 3.1
 
