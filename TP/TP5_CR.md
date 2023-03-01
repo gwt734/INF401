@@ -88,7 +88,7 @@ Les lignes modifiées sont :
 16: strb r3, [r0] 
 ```
 
-## 4.2
+## 4.3
 
 ```assembly
 .text
